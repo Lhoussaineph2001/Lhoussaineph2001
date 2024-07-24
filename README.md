@@ -30,8 +30,11 @@
   <a href="https://x.com/lhoussainePh" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
   </a>
+  <a href="https://t.me/lhoussainePh2001" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
+  </a>
 </div>
- 
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
