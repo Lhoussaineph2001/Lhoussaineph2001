@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lhoussaineph2001.lhussaineph2001" />
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Lora&weight=500&size=23&pause=1000&color=24F7D9&center=true&width=435&lines=Hi+There++%F0%9F%91%8B;++I'm+Lhoussaine+Ait+Aissa+!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Lora&weight=500&size=23&pause=1000&color=24F7D9&center=true&width=435&lines=Hi+There++%F0%9F%91%8B;++I'm+MuslimEthGuard+!" alt="Typing SVG" />
 </h1>
 <h3 align="center"> Smart contract developer | Security Researcher </h3>
 
@@ -10,9 +10,7 @@
 <div align="center">
 
 
- 🌱 I’m currently learning ** Assembly Evm-opcodes & Formal-verification** 
- 
- 🤔 I’m looking for a nice summer **Internship**
+ 🌱 I’m founder of  https://www.brewhash.com/
  
  🔭 I’m a Security Researcher learning **CyberSecurity , DEFI Security **
   
