@@ -9,12 +9,11 @@ Web3 Security Researcher · Smart Contract Auditor · Bug Bounty Hunter
 </h2>
 
 
-## Professional Summary
 
-Security-focused Smart Contract Auditor and Blockchain Developer with 4+ years of experience in vulnerability detection, DeFi protocol auditing, and full-stack DApp development. Active competitor on Sherlock, Code4rena, and Codehawks, currently triaging at Pashove Audit Group. Specialises in EVM protocols, cross-chain bridges, AMMs, and Solana/SPL programs. Also an educator, having published Solidity and DeFi security courses on Udemy and YouTube.
+Security-focused Smart Contract Auditor and Blockchain Developer , DeFi protocol auditing, and full-stack DApp development. Active competitor on Sherlock, Code4rena, and Codehawks, currently triaging at Pashove Audit Group. Specialises in EVM protocols, cross-chain bridges, AMMs, and Solana/SPL programs. Also an educator, having published Solidity and DeFi security courses on Udemy and YouTube.
 
 
-I am available for private smart contract security audits, testing, Research and collaborative team audits. Feel free to reach out via Twitter/Telegram.
+I am available for private smart contract security audits, testing, Research and collaborative team audits. Feel free to reach out via .
 
  
 <div align="center"> 
