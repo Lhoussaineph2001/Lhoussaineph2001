@@ -50,8 +50,9 @@ I am available for private smart contract security audits, testing, Research and
 
 | Project | Protocol Type | Platform | Language | Total Issues | Accuracy |
 |:---|:---|:---|:---|:---|:---|
-| UnDisclosed | DEFI | Pashov Audit Group | Rust | 100 | 100% |
+| UnDisclosed | DEX | Pashov Audit Group | Rust | 100 | 100% |
 | UnDisclosed | DEFI | Pashov Audit Group | Solidity | 100 | 100% |
+| UnDisclosed | Staking | Pashov Audit Group | Solidity | 60 | 100% |
 
 
 
